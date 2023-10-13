@@ -31,14 +31,9 @@ Geração de resultados em pdf com vizualização prévia e possibilidade para a
 ## ⚠️ Requisitos
 
 Para conseguir rodar o projeto em seu dispositivo, é necessário realizar a instalação do Venv (Ambiente Virtual)
+Utilize o comando: python -m venv venv
 <br>
-	# Linux
- <br>
-		python3 -m venv venv
-  <br>
-	# Windows
- <br>
-		python -m venv venv
-  <br>
+Logo em seguida, execute o comando: venv\Scripts\Activate.
+Depois de realizar a ativação do Venv, instale o django e o pillow através dos comandos: pip install django, pip install pillow
 
 
