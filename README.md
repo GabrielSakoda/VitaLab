@@ -24,9 +24,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto Laboratório tem a finalidade de servir como centro de administração para clinicas de especialidades.
-Com área de cadastro de clientes, cadastro de exames, cadastro para médicos e administradores da clinica.
-Geração de resultados em pdf com vizualização prévia e possibilidade para anexar caso precise, onde cada acesso é unico para o usuário cadastrado.
+O projeto VitaLab tem a finalidade de servir como centro de administração para clínicas de especialidades.
+Com área de cadastro de clientes, cadastro de exames, cadastro para médicos e administradores da clínica.
+Geração de resultados em pdf com visualização prévia e possibilidade para anexar caso precise, na qual o acesso é único para o usuário cadastrado.
 
 ## ⚠️ Requisitos
 
