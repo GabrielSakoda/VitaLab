@@ -34,6 +34,8 @@ Para conseguir rodar o projeto em seu dispositivo, é necessário realizar a ins
 Utilize o comando: python -m venv venv
 <br>
 Logo em seguida, execute o comando: venv\Scripts\Activate.
-Depois de realizar a ativação do Venv, instale o django e o pillow através dos comandos: pip install django, pip install pillow
+Depois de realizar a ativação do Venv, é necessário instalar algumas aplicações: pip install django, pip install pillow, pip install weasyprint
+<br>
+https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases - Se você estiver no windows, instale essa aplicação
 
 
