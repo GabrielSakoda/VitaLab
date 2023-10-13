@@ -31,9 +31,14 @@ Geração de resultados em pdf com vizualização prévia e possibilidade para a
 ## ⚠️ Requisitos
 
 Para conseguir rodar o projeto em seu dispositivo, é necessário realizar a instalação do Venv (Ambiente Virtual)
+<br>
 	# Linux
+ <br>
 		python3 -m venv venv
+  <br>
 	# Windows
+ <br>
 		python -m venv venv
+  <br>
 
 
